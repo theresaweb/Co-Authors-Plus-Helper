@@ -10,5 +10,7 @@
 
 1. hook into wp_insert_post_data and tell user they have to link co-author
 2. a. Show correct message when trying to update
+
    b. Show message near dropdown that user needs to be lined to update
+   
    c. Fix dropdown so that selecting user allows update
