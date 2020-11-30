@@ -4,8 +4,8 @@ Plugin Name: Co-Authors Plus Helper
 Version: 1.0.0
 Description: Co-Authors Plus Helper extends the co-authors plus plugin to handle special cases with author mapping. Read more in Issue at  <a href='https://github.com/Automattic/Co-Authors-Plus/issues/578' target='_blank'>#578</a>.
 Author: Theresa Newman
-Author URI: ''
-Plugin URI: ''
+Author URI: 'https://github.com/theresaweb'
+Plugin URI: 'https://github.com/theresaweb/Co-Authors-Plus-Helper'
 Text Domain: co-authors-plus-helper
 */
 /*
